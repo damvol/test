@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
         // master 1
         // master 2
         // test_1 - 1
+        // test_2 - 1
     }
 }
